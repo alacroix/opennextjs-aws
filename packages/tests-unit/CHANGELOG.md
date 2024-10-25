@@ -4,6 +4,13 @@
 
 ### Patch Changes
 
+- Updated dependencies [[`92ec92b`](https://github.com/opennextjs/opennextjs-aws/commit/92ec92b5f892a4e5e5fe8221d74b01eb8f17eebf), [`d6d4b8f`](https://github.com/opennextjs/opennextjs-aws/commit/d6d4b8f83da47b7ec3b0e7b565c38567a3ff0742)]:
+  - @opennextjs/aws@3.1.7
+
+## null
+
+### Patch Changes
+
 - Updated dependencies [[`ad513ef`](https://github.com/opennextjs/opennextjs-aws/commit/ad513efb8856ebdfbc11482537986abb0524ab75)]:
   - @opennextjs/aws@3.1.6
 
