@@ -1,5 +1,13 @@
 # open-next
 
+## 3.1.7
+
+### Patch Changes
+
+- [`92ec92b`](https://github.com/opennextjs/opennextjs-aws/commit/92ec92b5f892a4e5e5fe8221d74b01eb8f17eebf) Thanks [@conico974](https://github.com/conico974)! - Support i18n localeDetection with value false
+
+- [#567](https://github.com/opennextjs/opennextjs-aws/pull/567) [`d6d4b8f`](https://github.com/opennextjs/opennextjs-aws/commit/d6d4b8f83da47b7ec3b0e7b565c38567a3ff0742) Thanks [@sommeeeer](https://github.com/sommeeeer)! - Hides the x-opennext header from server requests when poweredByHeader is false in next config
+
 ## 3.1.6
 
 ### Patch Changes
